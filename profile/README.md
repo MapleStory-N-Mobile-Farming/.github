@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://msu.io/maplestoryn/images/og/msn_new.png" alt="MapleStory N Banner" width="100%">
+  <img src="https://i.ytimg.com/vi/RdHwtzaKxPQ/maxresdefault.jpg" alt="MapleStory N Banner" width="100%">
 </p>
 
 ---
